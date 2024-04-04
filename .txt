@@ -1,0 +1,8 @@
+Assigment:
+
+Add a clear button
+Functionality: 
+1. It's disabled when there are no inputed terms in the search bar
+2. it becomes enabled immediate the user starts typing in the search bar
+3. when it's disabled, the button must not be clickable, and the bg will be faded gray
+4. When it's enabled we want the bg of the button to be red.
