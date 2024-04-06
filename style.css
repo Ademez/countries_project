@@ -109,4 +109,8 @@
       padding: 14px 28px;
       font-size: 18px;
     }
+    .searchContainer {
+       width: 85%;
+    }
+
   }
